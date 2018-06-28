@@ -1,0 +1,23 @@
+body{
+  margin: auto;
+  width: 80%;
+}
+
+h1{
+  color: blue;
+}
+
+img{
+  height: 50%;
+  width: 50%;
+}
+
+#about-page{
+  border: 1px aqua;
+  background-color: aqua;
+  padding: 3px;
+
+}
+a{
+  text-decoration: none;
+}
